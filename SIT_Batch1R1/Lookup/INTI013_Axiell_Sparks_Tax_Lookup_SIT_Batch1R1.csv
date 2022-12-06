@@ -1,0 +1,7 @@
+﻿DVM,INTI013_Axiell_Sparks_Tax_Lookup,"Since Tax codes naming convention in Axiell Sparks is different from that from Oracle Fusion, below mapping will be used."
+Description,Axiell_Sparks_Tax_Code,Oracle_Tax_Code
+Standard Rate Output,S,AW
+Reduced Rate Output,R,A6
+Zero Rate Output,Z,A8
+Outside Scope Output,O,A7
+Exempt Output,E,AE

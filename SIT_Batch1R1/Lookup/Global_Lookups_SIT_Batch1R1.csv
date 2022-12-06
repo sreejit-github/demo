@@ -1,0 +1,6 @@
+﻿DVM,Global_Lookups,List of values used across integrations
+Name,Value
+severityLow,LOW
+severityMedium,MEDIUM
+severityHigh,HIGH
+integrationUser,WSCC_ERP_Integration1

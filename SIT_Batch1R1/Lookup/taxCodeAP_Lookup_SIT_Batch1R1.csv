@@ -1,0 +1,7 @@
+﻿DVM,taxCodeAP_Lookup,
+Name,Mosaic_Value,Oracle_Value
+Exempt,E,V0
+Standard Rated,S,W1
+Outside Scope,O,V2
+Reduced Rate,F,V6
+Zero Rated VAT,Z,V8

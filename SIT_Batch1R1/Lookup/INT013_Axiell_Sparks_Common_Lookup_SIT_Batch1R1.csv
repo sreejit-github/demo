@@ -1,0 +1,13 @@
+﻿DVM,INT013_Axiell_Sparks_Common_Lookup,
+Name,Value
+job_package_name,/oracle/apps/ess/financials/tax/report/
+job_definition_name,FinancialTaxEntryRepo
+ZipFilePrefix,ZxTERDataUploadInterface
+West Sussex County Council BU,300000004919048
+Sales taxable journal,SALES_TAXABLE_JOURNAL
+Import transactions,IMPORT
+Inbound Directory,/home/cmxml/SIT/PENDING
+Archive Zipfile Directory,/integration/inbound/INTI013/ZXTER_FBDI_Files/Archive
+ArchiveSourceFileDirectory,/home/cmxml/SIT/ARCHIVED
+ArchiveSourceFileErrorDirectory,/home/cmxml/SIT/ERROR
+Inbound_FilePattrenINTI013,*.xml
