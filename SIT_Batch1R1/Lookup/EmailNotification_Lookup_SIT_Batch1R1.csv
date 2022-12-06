@@ -1,6 +1,0 @@
-﻿DVM,EmailNotification_Lookup,Lookup to maintain email ids of support members
-Name,Value
-envVar,SIT
-oicMonitorUser,"rajesh.reddy@dxc.com,karen.spurgeon@dxc.com,manjunath.banda@dxc.com,paul.trott@dxc.com"
-maxAttachmentSizeInMb,5
-maxAttachmentSizeNote,We have removed attachment as it was more than the allowed max size limit. Please check the calling integration for attachment.
